@@ -1,0 +1,5 @@
+model,SFCR_dense,PASI_C1,added_parameters
+M00,False,False,0
+M01,True,False,65797
+M02,False,True,384
+M05,True,True,66181

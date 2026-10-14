@@ -1,0 +1,10 @@
+{
+  "python_syntax": "passed",
+  "configuration_count": 120,
+  "frozen_split_count": 15,
+  "mapping_hashes": "passed",
+  "training_reproduced": false,
+  "runtime_check": "System Python torch import failed: fbgemm.dll dependency unavailable; see local validation report.",
+  "configuration_values": "120 unique selected-seed configurations verified",
+  "split_arrays": "15 archives readable, statistics support present"
+}

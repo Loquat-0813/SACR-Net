@@ -1,0 +1,40 @@
+seed: 42
+device: cuda
+data_root: data/raw
+dataset: whu_longkou
+patch_size: 11
+normalization: train_minmax
+input_view: raw
+split:
+  type: frozen
+  path: splits/longkou_s42.npz
+require_statistics_support: true
+statistics_support:
+  path: splits/longkou_s42.npz
+  key: stats_support
+  sha256: bb097dae7f640e96e8bf2445590198285f4c78e8f7d73ff9da38823502fafb40
+low_light:
+  enabled: false
+model:
+  name: dualmamba_views
+auxiliary_view: snv
+fusion_initialization: zero
+amplitude_variant: none
+ablation:
+  dense: true
+  c_kernel: 0
+  npaf: false
+training:
+  epochs: 300
+  batch_size: 64
+  eval_batch_size: 128
+  num_workers: 0
+  lr: 0.001
+  weight_decay: 0.01
+  checkpoint_selection: val_oa
+  consistency_weight: 0.0
+  relight:
+    enabled: false
+revision:
+  id: longkou_M01_s42
+  stage: dense_c_npaf_ten_seed_ablation

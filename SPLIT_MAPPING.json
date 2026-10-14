@@ -1,0 +1,212 @@
+[
+  {
+    "scene": "hanchuan",
+    "seed": 11004,
+    "split_seed": 2026,
+    "path": "splits/hanchuan_s2026.npz",
+    "sha256": "13557df8a75bb3161f9c493639732d130216ee06e1506512af77cff2cb6a38e8"
+  },
+  {
+    "scene": "hanchuan",
+    "seed": 256,
+    "split_seed": 256,
+    "path": "splits/hanchuan_s256.npz",
+    "sha256": "e473816d25a01f4919b99ad6af951aba0ebbb60ad050f2567e8ce613fe2c063e"
+  },
+  {
+    "scene": "hanchuan",
+    "seed": 42,
+    "split_seed": 42,
+    "path": "splits/hanchuan_s42.npz",
+    "sha256": "05ea857ca0ae2dae5cdbde5a27ba64590b40fa2de133951bfafa91dd9fb5b4ad"
+  },
+  {
+    "scene": "hanchuan",
+    "seed": 3407,
+    "split_seed": 3407,
+    "path": "splits/hanchuan_s3407.npz",
+    "sha256": "8692facd47167c5357dd36c9e52608b83dbc06fe9340d7e98cc2c8290e0e59da"
+  },
+  {
+    "scene": "hanchuan",
+    "seed": 11002,
+    "split_seed": 7,
+    "path": "splits/hanchuan_s7.npz",
+    "sha256": "e81af4a4e105f1a10cfa4fdda715ecd0769f3bccb65dd55f68a34d0e6a2fd497"
+  },
+  {
+    "scene": "hanchuan",
+    "seed": 11005,
+    "split_seed": 3407,
+    "path": "splits/hanchuan_s3407.npz",
+    "sha256": "8692facd47167c5357dd36c9e52608b83dbc06fe9340d7e98cc2c8290e0e59da"
+  },
+  {
+    "scene": "hanchuan",
+    "seed": 11007,
+    "split_seed": 256,
+    "path": "splits/hanchuan_s256.npz",
+    "sha256": "e473816d25a01f4919b99ad6af951aba0ebbb60ad050f2567e8ce613fe2c063e"
+  },
+  {
+    "scene": "hanchuan",
+    "seed": 2026,
+    "split_seed": 2026,
+    "path": "splits/hanchuan_s2026.npz",
+    "sha256": "13557df8a75bb3161f9c493639732d130216ee06e1506512af77cff2cb6a38e8"
+  },
+  {
+    "scene": "hanchuan",
+    "seed": 11001,
+    "split_seed": 42,
+    "path": "splits/hanchuan_s42.npz",
+    "sha256": "05ea857ca0ae2dae5cdbde5a27ba64590b40fa2de133951bfafa91dd9fb5b4ad"
+  },
+  {
+    "scene": "hanchuan",
+    "seed": 7,
+    "split_seed": 7,
+    "path": "splits/hanchuan_s7.npz",
+    "sha256": "e81af4a4e105f1a10cfa4fdda715ecd0769f3bccb65dd55f68a34d0e6a2fd497"
+  },
+  {
+    "scene": "longkou",
+    "seed": 11004,
+    "split_seed": 2026,
+    "path": "splits/longkou_s2026.npz",
+    "sha256": "342df8e221097f9a28c35e8b88035e5aff400ba70aa9d9aceafbf0054e23e1e6"
+  },
+  {
+    "scene": "longkou",
+    "seed": 256,
+    "split_seed": 256,
+    "path": "splits/longkou_s256.npz",
+    "sha256": "b6fcf393c635ae0111bab8269cc942ba4e0cf5f1dd1b7778552f95ea32b6b523"
+  },
+  {
+    "scene": "longkou",
+    "seed": 42,
+    "split_seed": 42,
+    "path": "splits/longkou_s42.npz",
+    "sha256": "bb097dae7f640e96e8bf2445590198285f4c78e8f7d73ff9da38823502fafb40"
+  },
+  {
+    "scene": "longkou",
+    "seed": 3407,
+    "split_seed": 3407,
+    "path": "splits/longkou_s3407.npz",
+    "sha256": "e179a4c91185f659760b38d9b4776d960b0fc1914673e53eb9f9a26b4b2c6499"
+  },
+  {
+    "scene": "longkou",
+    "seed": 11002,
+    "split_seed": 7,
+    "path": "splits/longkou_s7.npz",
+    "sha256": "ed08cbd5ccd955892caee4db0c6c056bc2004087b43416a6b6a6c6ab6159fea8"
+  },
+  {
+    "scene": "longkou",
+    "seed": 11005,
+    "split_seed": 3407,
+    "path": "splits/longkou_s3407.npz",
+    "sha256": "e179a4c91185f659760b38d9b4776d960b0fc1914673e53eb9f9a26b4b2c6499"
+  },
+  {
+    "scene": "longkou",
+    "seed": 11007,
+    "split_seed": 256,
+    "path": "splits/longkou_s256.npz",
+    "sha256": "b6fcf393c635ae0111bab8269cc942ba4e0cf5f1dd1b7778552f95ea32b6b523"
+  },
+  {
+    "scene": "longkou",
+    "seed": 2026,
+    "split_seed": 2026,
+    "path": "splits/longkou_s2026.npz",
+    "sha256": "342df8e221097f9a28c35e8b88035e5aff400ba70aa9d9aceafbf0054e23e1e6"
+  },
+  {
+    "scene": "longkou",
+    "seed": 11001,
+    "split_seed": 42,
+    "path": "splits/longkou_s42.npz",
+    "sha256": "bb097dae7f640e96e8bf2445590198285f4c78e8f7d73ff9da38823502fafb40"
+  },
+  {
+    "scene": "longkou",
+    "seed": 7,
+    "split_seed": 7,
+    "path": "splits/longkou_s7.npz",
+    "sha256": "ed08cbd5ccd955892caee4db0c6c056bc2004087b43416a6b6a6c6ab6159fea8"
+  },
+  {
+    "scene": "honghu",
+    "seed": 11004,
+    "split_seed": 2026,
+    "path": "splits/honghu_s2026.npz",
+    "sha256": "dff037073326b6a098e9a85b59225a0ff6240596ddf1706123dd18febfeaad8f"
+  },
+  {
+    "scene": "honghu",
+    "seed": 256,
+    "split_seed": 256,
+    "path": "splits/honghu_s256.npz",
+    "sha256": "244ef4c726f65ed0723b14976ef57ee445679650d42c1fb0df8515d6f6984e7a"
+  },
+  {
+    "scene": "honghu",
+    "seed": 42,
+    "split_seed": 42,
+    "path": "splits/honghu_s42.npz",
+    "sha256": "79a405839440dcda9182d2d56d02a9d25d9063037a8fca010ec0d543a5a2264c"
+  },
+  {
+    "scene": "honghu",
+    "seed": 3407,
+    "split_seed": 3407,
+    "path": "splits/honghu_s3407.npz",
+    "sha256": "6a46727f3fab561792d2836eb9b4a1282c996a8fc928e594743449bdc9f55861"
+  },
+  {
+    "scene": "honghu",
+    "seed": 11002,
+    "split_seed": 7,
+    "path": "splits/honghu_s7.npz",
+    "sha256": "7f5870971d506b34be6f53d2608f8a30416d46bc8fdb409c0b903c36b207c349"
+  },
+  {
+    "scene": "honghu",
+    "seed": 11005,
+    "split_seed": 3407,
+    "path": "splits/honghu_s3407.npz",
+    "sha256": "6a46727f3fab561792d2836eb9b4a1282c996a8fc928e594743449bdc9f55861"
+  },
+  {
+    "scene": "honghu",
+    "seed": 11007,
+    "split_seed": 256,
+    "path": "splits/honghu_s256.npz",
+    "sha256": "244ef4c726f65ed0723b14976ef57ee445679650d42c1fb0df8515d6f6984e7a"
+  },
+  {
+    "scene": "honghu",
+    "seed": 2026,
+    "split_seed": 2026,
+    "path": "splits/honghu_s2026.npz",
+    "sha256": "dff037073326b6a098e9a85b59225a0ff6240596ddf1706123dd18febfeaad8f"
+  },
+  {
+    "scene": "honghu",
+    "seed": 11001,
+    "split_seed": 42,
+    "path": "splits/honghu_s42.npz",
+    "sha256": "79a405839440dcda9182d2d56d02a9d25d9063037a8fca010ec0d543a5a2264c"
+  },
+  {
+    "scene": "honghu",
+    "seed": 7,
+    "split_seed": 7,
+    "path": "splits/honghu_s7.npz",
+    "sha256": "7f5870971d506b34be6f53d2608f8a30416d46bc8fdb409c0b903c36b207c349"
+  }
+]

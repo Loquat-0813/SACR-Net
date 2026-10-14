@@ -1,0 +1,24 @@
+{
+  "seeds": [
+    11004,
+    256,
+    42,
+    3407,
+    11002,
+    11005,
+    11007,
+    2026,
+    11001,
+    7
+  ],
+  "lr_by_scene": {
+    "hanchuan": 0.0005,
+    "longkou": 0.001,
+    "honghu": 0.0005
+  },
+  "fixed_before_this_completion": true,
+  "selection_used_prior_test": true,
+  "distinct_splits_per_scene": 5,
+  "no_reranking_after_completion": true,
+  "independent_confirmation": false
+}

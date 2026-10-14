@@ -1,0 +1,44 @@
+seed: 11005
+device: cuda
+data_root: data/raw
+dataset: whu_hanchuan
+patch_size: 11
+normalization: train_minmax
+input_view: raw
+split:
+  type: frozen
+  path: splits/hanchuan_s3407.npz
+require_statistics_support: true
+statistics_support:
+  path: splits/hanchuan_s3407.npz
+  key: stats_support
+  sha256: 8692facd47167c5357dd36c9e52608b83dbc06fe9340d7e98cc2c8290e0e59da
+low_light:
+  enabled: false
+model:
+  name: dualmamba_views
+auxiliary_view: snv
+fusion_initialization: zero
+amplitude_variant: none
+ablation:
+  dense: false
+  c_kernel: 0
+  npaf: false
+training:
+  epochs: 300
+  batch_size: 64
+  eval_batch_size: 128
+  num_workers: 0
+  lr: 0.0005
+  weight_decay: 0.01
+  checkpoint_selection: val_oa
+  consistency_weight: 0.0
+  relight:
+    enabled: false
+revision:
+  id: hanchuan_M00_s11005
+  stage: tuned_ten_new_training_seeds
+  split_seed: 3407
+  training_seed: 11005
+  recipe_source: m05_lr_tuning_20261010
+  developmental: true

@@ -1,0 +1,13 @@
+scene,cell,parameters,macs_per_sample,median_batch128_ms,gpu,dtype,batch,timing_scope,training_seconds_mean,training_seconds_sample_sd
+hanchuan,M00,895648,371628256,18.3862886428833,NVIDIA GeForce RTX 4090,float32,128,"GPU-resident forward; excludes input construction, preprocessing and H2D transfer",324.2301268517971,9.884257268780152
+hanchuan,M01,961445,380549344,18.62433624267578,NVIDIA GeForce RTX 4090,float32,128,"GPU-resident forward; excludes input construction, preprocessing and H2D transfer",333.6145866334438,10.617600993008482
+hanchuan,M02,896032,371659232,18.423823356628414,NVIDIA GeForce RTX 4090,float32,128,"GPU-resident forward; excludes input construction, preprocessing and H2D transfer",351.2969780758023,10.276894012664703
+hanchuan,M05,961829,380580320,18.677295684814453,NVIDIA GeForce RTX 4090,float32,128,"GPU-resident forward; excludes input construction, preprocessing and H2D transfer",350.5459218874574,12.922181618080057
+longkou,M00,883185,366156952,18.16056060791016,NVIDIA GeForce RTX 4090,float32,128,"GPU-resident forward; excludes input construction, preprocessing and H2D transfer",181.70185721963645,4.457773074697972
+longkou,M01,948982,375078040,18.40127944946289,NVIDIA GeForce RTX 4090,float32,128,"GPU-resident forward; excludes input construction, preprocessing and H2D transfer",182.8079768113792,5.165600480465032
+longkou,M02,883569,366187928,18.20467185974121,NVIDIA GeForce RTX 4090,float32,128,"GPU-resident forward; excludes input construction, preprocessing and H2D transfer",195.13169981092216,7.1178458303396255
+longkou,M05,949366,375109016,18.4442720413208,NVIDIA GeForce RTX 4090,float32,128,"GPU-resident forward; excludes input construction, preprocessing and H2D transfer",197.96643302962184,7.483602006595784
+honghu,M00,883510,366157264,18.1724157333374,NVIDIA GeForce RTX 4090,float32,128,"GPU-resident forward; excludes input construction, preprocessing and H2D transfer",424.8273039661348,5.780413091622206
+honghu,M01,949307,375078352,18.41152000427246,NVIDIA GeForce RTX 4090,float32,128,"GPU-resident forward; excludes input construction, preprocessing and H2D transfer",441.9289603166282,7.212313817396146
+honghu,M02,883894,366188240,18.217472076416016,NVIDIA GeForce RTX 4090,float32,128,"GPU-resident forward; excludes input construction, preprocessing and H2D transfer",462.1656340606511,8.253132630057284
+honghu,M05,949691,375109328,18.461471557617188,NVIDIA GeForce RTX 4090,float32,128,"GPU-resident forward; excludes input construction, preprocessing and H2D transfer",456.3845544479788,8.128676774316927
