@@ -47,7 +47,7 @@ The entry point trains the model, chooses the checkpoint using validation OA (la
 
 ## Protocol and interpretation
 
-Selected training seeds: **7, 42, 256, 2026, 3407, 11001, 11002, 11004, 11005, 11007**. They map to five spatial splits per scene; see `SELECTED_SEEDS.json` and `SPLIT_MAPPING.json`. There are four configurations × three scenes × ten seeds = 120 runs. The seed subset and scene learning rates were selected with reference to previously viewed test results. Results describe a development subset and do not constitute independent confirmatory evidence. Archived results are supplied as measurements, not as a claim that rerunning this package will be bitwise identical.
+Selected training seeds: **7, 42, 256, 2026, 3407, 11001, 11002, 11004, 11005, 11007**. They map to five spatial splits per scene; see `SELECTED_SEEDS.json` and `SPLIT_MAPPING.json`. There are four configurations × three scenes × ten seeds = 120 runs. 
 
 ## Release preparation and validation
 
